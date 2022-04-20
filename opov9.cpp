@@ -1,10 +1,3 @@
-compare C++ built-in data types.
-
-You can overload any of these operators, which can be used to compare the objects of a class.
-
-Following example explains how a < operator can be overloaded and similar way you can overload other relational operators.
-
-Live Demo
 #include <iostream>
 using namespace std;
  
